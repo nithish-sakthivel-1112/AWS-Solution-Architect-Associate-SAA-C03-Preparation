@@ -1,6 +1,6 @@
 # AWS-Solution-Architect-Associate-SAA-C03-Preparation
 
-#This study guide will help with AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
+This study guide will help with AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
 
      1.Stephane Maarek's Udemy course
      2. AWS Official Documentation 
@@ -13,7 +13,7 @@ This repo will contains all of my personal notes while prepating for AWS SAA C03
 
 *Exam score will be scale from 100-1000 and 750 is the minimum passing grade*
 
-###The exam has the following content domains and weightings:
+### The exam has the following content domains and weightings:
 
 *Domain 1: Design Secure Architectures*
 
